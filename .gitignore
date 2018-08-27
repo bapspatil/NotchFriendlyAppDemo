@@ -6,5 +6,6 @@
 .idea
 /captures
 .externalNativeBuild
+/gradle.properties
 /app/release/
 /app/google-services.json
