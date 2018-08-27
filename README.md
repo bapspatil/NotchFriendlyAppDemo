@@ -13,7 +13,7 @@ Here's the link to my Medium article with a step-by-step guide on how you can do
 
 `shortEdges` mode
 
-![Demo GIF](./design/shortedges.gif)
+![Demo GIF](./design/short-edges.gif)
 
 `never` mode
 
